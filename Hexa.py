@@ -1,0 +1,4 @@
+myFirstName = "\x4a\x61\x6e\x65\x63\x72\x65\x73"
+myLastName = "\x44\x61\x6c\x75\x62\x61\x74\x61\x6e"
+myFullName = myFirstName + " " + myLastName
+print(myFullName)
